@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name                      = 'ValidateKit'
-  s.version                   = '1.0.1'
+  s.version                   = '1.0.2'
   s.summary                   = 'ValidateKit is a framework for validating data of model.'
   s.homepage                  = 'https://github.com/redwerk/ValidateKit'
   s.license                   = { :type => 'MIT', :file => 'LICENSE' }
